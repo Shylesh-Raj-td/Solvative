@@ -18,3 +18,20 @@ table tr{
 table tr th, table tr td{
     padding: 5px;
 }
+
+.form-div{
+    margin-bottom: 10px;
+}
+
+.form-div form input{
+    width: 43.5%;
+    padding: 5px;
+}
+
+.form-div form button{
+    width: 10%;
+    padding: 5px;
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
