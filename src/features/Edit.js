@@ -30,7 +30,7 @@ export default function Edit({data}) {
     
   return (
     <div>
-        <h2>Create a Review</h2>
+        <h2>Edit a Review</h2>
         <TextField
         label="Title"
         value={values.title}
