@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "64a14bbe675da7a029f3b30b",
+        "title": "Lord of the Rings",
+        "description": "It has 3 books in the series",
+        "__v": 0
+    },
+    {
+        "_id": "64a14c5b460ced5b10b60930",
+        "title": "IT",
+        "description": "It's a horror movie",
+        "__v": 0
+    },
+    {
+        "_id": "64a14ca083b8587581aed31b",
+        "title": "Atomic Habits",
+        "description": "It's a Life saving book",
+        "__v": 0
+    },
+    {
+        "_id": "64a14cfa8cdd30a0dd2b79da",
+        "title": "Wings of Fire",
+        "description": "Written by APJ Abdul Kalam",
+        "__v": 0
+    }
+]
